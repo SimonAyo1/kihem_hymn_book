@@ -1,0 +1,64 @@
+{
+    "worshipHymnList": {
+        "hymn1": "Holy, Holy, Holy A",
+        "hymn2": "Holy, Holy, Holy B",
+        "hymn3": "Only One God We’re to Worship",
+        "hymn4": "We Children Of Kingdom of God",
+        "hymn5": "The Earth is The Lord’s",
+        "hymn6": "Bow down unto Father",
+        "hymn7": " This day indeed is a great day",
+        "hymn8": "God Himself is With Us",
+        "hymn9": "Holy Father Son Holy Ghost we worship",
+        "hymn10": "Oh How beautiful are thy courts above",
+        "hymn11": "All ends of earth shall remember",
+        "hymn12": "Lift up your heads oh ye gates",
+        "hymn13": "We give glory Honour and praise",
+        "hymn14": "How beautiful is thy throne in heaven",
+        "hymn15": "And As It Has Been Written Thus",
+        "hymn16": "Come now, let us worship",
+        "hymn17": "Holy, The Heavens Praise",
+        "hymn18": " Holy, Holy to Our King"
+    },
+    "worshipHymn": {
+        "holyHoly1": {
+            "id": "1",
+            "title": "HOLY, HOLY, HOLY",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofaTitle1": "Tune A   4/4",
+                    "sofa1": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:- ",
+                    "sofa2": "s; s. s: s: |d: d: t: s:|r: s: l; s.|s:-:- ",
+                    "sofa3": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:-  ",
+                    "sofa4": "d:- s: s:|l:-m:-|f; r. r; d.|d:-:-",
+                    "sofaTitle2": " Tune B 6/8",
+                    "sofa5": "m. /m: d . r : t . /d:-. m . / m: d . r : t . /d;",
+                    "sofa6": "s : d.|t:-: /.; t . l . t . /d :-:|:-. d.|",
+                    "sofa7": "f : m. r . d . r . |m:-. d . | f : m. r . d . r . /m:-. d./",
+                    "sofa8": "f : m . r: d. | s’ ; s: d.|t :-: |: t. t. l. t.|",
+                    "sofa9": "d :-: |;  d . d. t.| l:-. l . / t; t. l. t. / d:-: /:-."
+                },
+                "verses": {
+                    "verse1": "1. Holy, Holy, Holy, Lord God Almighty,",
+                    "verse2": "God Olutanmole, everlasting Creator,",
+                    "verse3": "Thou which was and which is, ",
+                    "verse4": "And thou which is to come,",
+                    "verse5": "Thou Father and Son, and Holy Spirit.   (Rev 4:8)",
+                    "verse6": "2. Holy Holy Holy, O Lord Thou art worthy",
+                    "verse7": "To receive all glory and honour and power",
+                    "verse8": "For only thou hath cre-ated heaven and earth",
+                    "verse9": "For thy pleasure they are and were created. (Rev4:11)",
+                    "verse10": "3. Holy Holy Holy, Ascribe ye blessing",
+                    "verse11": "And Majesty, glory and honour and power",
+                    "verse12": "Unto Him that sitteth on the throne of glory",
+                    "verse13": "And unto the Lamb for- ever and ever. (Rev 5:11)",
+                    "verse14": "4. Holy, Holy, Holy, Mighty and Marvelous,",
+                    "verse15": "Are all thy works Lord God Olutanmole",
+                    "verse16": "Righteousness and faithful-ness are all thy ways",
+                    "verse17": "Thou Almighty God king of all ages. (Rev. 15:3)",
+                    "amenHallelujah": "Amen Halleluyah"
+                }
+            }
+        }
+
+    }
+}
